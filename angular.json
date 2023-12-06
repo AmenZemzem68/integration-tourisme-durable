@@ -25,7 +25,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/style.css"
+              "src/style.css",
+              "src/lib/animate/animate.min.css"
             ],
             "scripts": [
               "src/assets/js/main.js"
